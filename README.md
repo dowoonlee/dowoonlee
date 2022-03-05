@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowoonlee&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={dwlee717})](https://solved.ac/{dwlee717})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwlee717)](https://solved.ac/dwlee717)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dowoonlee&repo=TIL&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
