@@ -6,8 +6,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwlee717)](https://solved.ac/dwlee717)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dowoonlee&repo=TIL&theme=highcontrast)](https://github.com/dowoonlee/TIL)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowoonlee&exclude_repo=github-readme-stats,dowoonlee.github.io&layout=compact&theme=vision-friendly-dark)](https://github.com/dowoonlee/TIL)
 
 </div>
